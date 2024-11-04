@@ -10,7 +10,7 @@ A simple BMI (Body Mass Index) Calculator built with Python's Tkinter library. T
 
 ## Requirements
 
-To run this application, you need to have Python installed on your machine. You can download Python from [python.org](https://www.python.org/downloads/).
+To run this application, you need to have Python installed on your machine.
 
 ### Libraries
 
